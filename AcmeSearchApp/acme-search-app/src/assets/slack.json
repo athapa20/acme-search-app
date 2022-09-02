@@ -1,0 +1,76 @@
+{
+    "slack": [
+      {
+        "id": "123",
+        "channel": "nwic",
+        "author": "aachal",
+        "message": "Ready for the next meeting peeps?",
+        "timestamp": "2020-03-11 12:54:00",
+        "matching_terms": [
+          "aachal",
+          "nwic",
+          "meeting"
+        ]
+      },
+      {
+        "id": "543",
+        "channel": "gamers",
+        "author": "bob",
+        "message": "Team! Fall Back",
+        "timestamp": "2012-02-26 11:00:01",
+        "matching_terms": [
+          "bob",
+          "gamers",
+          "team"
+        ]
+      },
+      {
+        "id": "554",
+        "channel": "netflix",
+        "author": "dan",
+        "message": "Halloween movie suggestion?",
+        "timestamp": "2016-02-26 11:00:02",
+        "matching_terms": [
+          "dan",
+          "netflix",
+          "Halloween"
+        ]
+      },
+      {
+        "id": "777",
+        "channel": "hbo",
+        "author": "Joffery",
+        "message": "Winter is here",
+        "timestamp": "2012-02-26 12:00:00",
+        "matching_terms": [
+          "hbo",
+          "Joffery",
+          "winter"
+        ]
+      },
+      {
+        "id": "987",
+        "channel": "software",
+        "author": "dave",
+        "message": "Yeah, I met with Bob there",
+        "timestamp": "2019-02-26 12:00:01",
+        "matching_terms": [
+          "dave",
+          "customer-chatter",
+          "bob"
+        ]
+      },
+      {
+        "id": "675",
+        "channel": "hardware",
+        "author": "dave",
+        "message": "I think John from Acme was in that meeting too",
+        "timestamp": "2019-02-26 12:00:02",
+        "matching_terms": [
+          "dave",
+          "john",
+          "hardware"
+        ]
+      }
+    ]
+  }

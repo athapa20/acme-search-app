@@ -1,0 +1,64 @@
+{
+  "tweet": [
+    {
+      "user": "@acmecorp",
+      "message": "We're hiring in Boston!",
+      "timestamp": "2019-02-29",
+      "matching_terms": [
+        "acme",
+        "hiring",
+        "boston"
+      ]
+    },
+    {
+      "user": "@nwic",
+      "message": "We are starting up NWiC Educate",
+      "timestamp": "2020-08-29",
+      "matching_terms": [
+        "nwic",
+        "educate",
+        "start"
+      ]
+    },
+    {
+      "user": "@aanchal735",
+      "message": "I am not into tweeter",
+      "timestamp": "2016-02-29",
+      "matching_terms": [
+        "aanchal",
+        "tweeter",
+        "tweet"
+      ]
+    },
+    {
+      "user": "@Google",
+      "message": "If you tweet this you'll be hired",
+      "timestamp": "2020-07-29",
+      "matching_terms": [
+        "google",
+        "hiring",
+        "tweet"
+      ]
+    },
+    {
+      "user": "@neeva",
+      "message": "We're hiring in Boston!",
+      "timestamp": "2019-02-29",
+      "matching_terms": [
+        "neeva",
+        "hiring",
+        "boston"
+      ]
+    },
+    {
+      "user": "@SF",
+      "message": "Bay yay",
+      "timestamp": "2019-02-27",
+      "matching_terms": [
+        "SF",
+        "bay",
+        "yay"
+      ]
+    }
+  ]
+  }

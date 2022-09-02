@@ -1,0 +1,15 @@
+@import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css');
+
+body {
+  margin: 3em;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  background-image: url('https://cdn.hipwallpaper.com/i/29/11/VwlI47.jpg');
+}
+
+body, input[text] {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 20px;
+}
